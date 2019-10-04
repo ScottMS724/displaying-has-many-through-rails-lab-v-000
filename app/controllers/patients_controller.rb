@@ -5,6 +5,7 @@ class PatientsController < ApplicationController
   end
 
   def show
+    
   end
   
 end
